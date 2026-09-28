@@ -1,0 +1,4 @@
+wallets.json
+proxies.txt
+__pycache__/
+*.pyc
